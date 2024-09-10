@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://nobozyth.github.io/sitemap/sitemap.txt
